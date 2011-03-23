@@ -7,7 +7,7 @@ next_url: what-is-rubinius
 translated: true
 ---
 
-1. [何がRubiniusのですか？](/doc/ja/what-is-rubinius/)
+1. [Rubiniusとは？](/doc/ja/what-is-rubinius/)
 1. [Getting Started](/doc/ja/getting-started/)
     1. [Requirements](/doc/ja/getting-started/requirements/)
     1. [Building](/doc/ja/getting-started/building/)
